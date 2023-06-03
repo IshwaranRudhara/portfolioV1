@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.nav-container {
+}
+
+.navbar {
+  display: flex;
+  height: 70px;
+}
+
+.nav-logo {
+}
+
+.nav-icons {
+  /* flex-direction: row; */
+}
+
+.nav-icons ul li a img {
+  margin-right: 30px;
+  /* color: blue; */
+}
